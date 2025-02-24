@@ -86,9 +86,6 @@ Water chestnut drink,BEVERAGES,Non-alcoholic beverages,Bottle (500g),145,0,0,36,
 "Water, mineral, natural, unflavoured",BEVERAGES,Non-alcoholic beverages,Can (330g),0,0,0,0,0,19.8,0
 "Water, plain",BEVERAGES,Non-alcoholic beverages,Cup (250g),0,0,0,0,0,0,0
 Wheatgrass drink,BEVERAGES,Non-alcoholic beverages,Packet (250g),85,0.25,0,21,0,2.2,21
-"Milk tea no toppings, 50% sugar",BEVERAGES,Non-alcoholic beverages,Cup (500g),,,,,,,18.5
-"Milk tea with pearls, 100% sugar",BEVERAGES,Non-alcoholic beverages,Cup (500g),,,,,,,54.5
-"Milk tea with pearls, 50% sugar",BEVERAGES,Non-alcoholic beverages,Cup (500g),,,,,,,27.5
 "Biscuit, alphabet",CEREAL AND CEREAL PRODUCTS,Biscuits(eg crackers),Cup (70g),301.65,4.55,6.51,56.28,1.47,4.2,16.8
 "Biscuit, chocolate",CEREAL AND CEREAL PRODUCTS,Biscuits(eg crackers),Piece (21g),96.37,1.6,2.9,15.98,0.4,5.04,5.86
 "Biscuit, chocolate chip",CEREAL AND CEREAL PRODUCTS,Biscuits(eg crackers),Piece (11g),54.45,0.69,2.64,7.07,0.21,5.83,3.09
@@ -414,211 +411,58 @@ Hong kong egglets,EGG AND EGG PRODUCTS,Hen eggs,Piece (141g),445.56,11,12.97,71.
 Egg powder,EGG AND EGG PRODUCTS,"Others (eg turtle eggs, egg substitutes)",Gram (1g),4.44,0.56,0.13,0.22,0,3.26,0.22
 "Omelette, yolk free egg mix, pan fried in butter",EGG AND EGG PRODUCTS,"Others (eg turtle eggs, egg substitutes)",1 portion (120g),205.35,12.72,15.36,4.68,0,115.2,4.68
 "6-Inch Honey Oat Bread, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (80g),231.2,8.8,2.9,39,4,69.6,7
-"6-Inch Italian (white) Bread, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (67g),192.29,6.7,2.4,,,,3
 "6-Inch Wheat Bread, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (69g),189.75,8.28,,32,,,3
 "6-inch Oven Roasted Chicken Breast Sandwich, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (230g),305.9,23,5.29,40.94,,75.9,5.98
-"6-inch Roast Beef Sandwich, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (210g),270.9,18.9,,,,39.9,6.01
-"6-inch Subway Melt Sandwich, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (240g),360,,,,,213.6,7.01
 "6-inch Sweet Onion Chicken Teriyaki Sandwich, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (267g),355.11,26.7,,,4.01,,17.01
 "6-inch Turkey Breast and Ham Sandwich, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (219g),271.56,19.71,,38,,181.77,6
 "6-inch Turkey breast Sandwich, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (210g),260.4,18.9,3.91,37,3.99,,6.01
 "Apple pie, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Piece (85g),232.05,1.7,,26,2,7.65,8.84
 Beef burger with cheese,FAST FOODS,All fast food outlets in alphabetical order,Whole (118g),300.12,,12,32,2.31,,0
 "Burger, double whopper with cheese, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Piece (375g),997.5,52.5,63.98,44.7,,292.5,13.54
-"CROISSAN'WICH w/ Chicken Sausage, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Whole (159g),430.89,,,,,,
 "Cheeseburger, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Whole (133g),380.38,,19.7,27.81,,123.69,
 "Chic Delite 10"" Regular Crispy Thin Pizza, Pizzahut",FAST FOODS,All fast food outlets in alphabetical order,Whole (61g),140.3,9.15,4.1,,,,2.5
-"Chicken Curry Pizza, Pizza Hut",FAST FOODS,All fast food outlets in alphabetical order,Slice (80g),163.2,,,,1.28,,
 "Chicken Drumlets, Pizza Hut",FAST FOODS,All fast food outlets in alphabetical order,Piece (35g),85.05,,,1.09,0.46,3.5,1.09
 "Chicken Tenders, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Whole (78g),225.42,,,11.79,,11.7,0.09
-Chicken burger,FAST FOODS,All fast food outlets in alphabetical order,Whole (169g),432.64,,,39.72,,,6.25
 "Chicken mushroom chowder, Pizza Hut (NNS)",FAST FOODS,All fast food outlets in alphabetical order,1 portion (240g),192,7.2,10.56,,3.36,,
 "Chicken nuggets, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Piece (17g),55.25,3.06,2.5,2.67,0.17,1.7,
 "Chicken, breast, KFC, hot and crispy",FAST FOODS,All fast food outlets in alphabetical order,Piece (160g),390.4,30.4,,13.6,1.76,35.2,
 "Chicken, breast, KFC, original recipe",FAST FOODS,All fast food outlets in alphabetical order,Piece (178g),380.92,40.94,21.54,10.09,1.25,46.28,0
-"Chicken, broilers or fryers, wing, meat only, cooked, fried, KFC (NNS)",FAST FOODS,All fast food outlets in alphabetical order,1 portion (172g),321.64,,,,,,
 "Chicken, colonel's crispy strips, KFC",FAST FOODS,All fast food outlets in alphabetical order,Gram (1g),3.23,0.19,0.19,0.19,0.01,0.13,
-"Chicken, drumstick, hot and crispy, KFC",FAST FOODS,All fast food outlets in alphabetical order,Piece (86g),212.42,17.2,,,,12.9,0
-"Chicken, thigh, hot and crispy, KFC",FAST FOODS,All fast food outlets in alphabetical order,Piece (142g),399.02,25.56,,13.11,1.28,,0
-"Chicken, thigh, original recipe, KFC",FAST FOODS,All fast food outlets in alphabetical order,Piece (128g),328.96,,,10.41,,,
-"Chicken, wing, hot and crispy, KFC",FAST FOODS,All fast food outlets in alphabetical order,Piece (58g),190.24,,17.5,6,,10.44,
-"Chocolate Cookies, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (45g),210.15,1.8,,,,,
 "Coleslaw, KFC",FAST FOODS,All fast food outlets in alphabetical order,Cup (80g),98.4,,7,7.7,1.6,22.4,7.62
-"Corn Cup, 3Oz, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Cup (85g),60.35,,1,11,0,,
-"Corn Cup, 4.5Oz, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Cup (128g),89.6,,,16,,,
 "Deli Style Roll, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (58g),164.72,5.22,,29,0.99,,1.97
-"Double Cheeseburger, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Whole (225g),564.75,,28.58,,,231.75,
-"Egg, scrambled, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Whole (94g),199.28,13.01,15.21,,0.19,,
 "Filet-o-fish, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Whole (136g),350.88,13.6,15,,,153.68,4.49
 "Fillet Burger, KFC",FAST FOODS,All fast food outlets in alphabetical order,Whole (135g),349.65,,,30.29,1.89,105.3,
 "Fish and chicken dinner, Long John Silver's",FAST FOODS,All fast food outlets in alphabetical order,Plate-23cm (110g),224.26,8.58,13.2,,0.88,0,
 "Fish and fryer, Long John Silver's",FAST FOODS,All fast food outlets in alphabetical order,Plate-23cm (111g),270.87,13.65,15.21,,0.09,29.97,
-Fish burger,FAST FOODS,All fast food outlets in alphabetical order,Whole (132g),325,,13,39.01,,,0
 "Fish dinner, Long John Silver's",FAST FOODS,All fast food outlets in alphabetical order,1 portion (85g),186.9,7.4,11.05,14.62,1.87,,
 "Fish, breaded, fried, Long John Silver's",FAST FOODS,All fast food outlets in alphabetical order,Piece (85g),170,11,,11.99,5,14.96,11.99
-French fries,FAST FOODS,All fast food outlets in alphabetical order,1 portion (107g),316.72,,17.75,,,,0.64
-"French fries, Popeyes",FAST FOODS,All fast food outlets in alphabetical order,1 portion (88g),281.6,,14.96,,2.64,,
 "French fries, large, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Packet (140g),441,5.6,,55.01,5,21,0
 "French fries, medium, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Packet (116g),373.52,3.48,19,,4,19.72,0.23
 "French fries, regular, Mos Burger",FAST FOODS,All fast food outlets in alphabetical order,Packet (90g),221.4,,11.7,,2.79,12.6,
-"French fries, small, salted, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Packet (63g),208.53,2.52,,,,5.67,0.43
-"Ham Salad, Subway",FAST FOODS,All fast food outlets in alphabetical order,Bowl-dessert (15 cm) (344g),113.52,10.32,,13,,,6.98
-Hamburger,FAST FOODS,All fast food outlets in alphabetical order,Whole (104g),252,,8,30,,,0
 "Hamburger, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Whole (123g),338.25,,14.97,30.89,,62.73,5.97
-"Hamburger, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Whole (104g),264.16,12.48,8.49,,3.18,,5.1
 "Hash Brown, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Packet (71g),232.17,2.13,,20.95,1.92,,0.17
-"Hearty Breakfast Set, Swensen's",FAST FOODS,All fast food outlets in alphabetical order,Whole (500g),985,,,53,13,,11
 "Honey, Mc Donald's",FAST FOODS,All fast food outlets in alphabetical order,Tablespoon (21g),67.2,0.08,,16.72,0,1.05,16.4
-"Ice cream, sundae, hot fudge, McDonalds'",FAST FOODS,All fast food outlets in alphabetical order,Cup (165g),333.3,6.6,,,,161.7,49.83
 KFC cheese fries,FAST FOODS,All fast food outlets in alphabetical order,Plate-16cm (186g),571.02,,41.5,44.7,2.98,65.1,
-"McChicken, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Whole (177g),394.71,,18,,,21.24,
 "Meat Galore 10"" Regular Crispy Thin Pizza, Pizzahut",FAST FOODS,All fast food outlets in alphabetical order,Whole (61g),176.29,10.98,8.3,13.7,1.8,73.2,1.6
 "Milk shake, chocolate, McDonalds'",FAST FOODS,All fast food outlets in alphabetical order,Glass (250ml) (360g),396,18,9,,,406.8,67
-"Milkshake, vanilla, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Glass (250ml) (284g),318.08,,8.61,,,,50.41
 "Milkshake, vanilla, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Cup (360g),388.8,14.4,9,67,0,,64.44
 "Mini Italian (white) Bread, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (45g),127.8,4.95,2,23,1,,
-"Mini Wheat Bread, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (46g),126.96,5.06,,21,2,,2
 "Oatmeal Raisin Cookies, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (45g),199.8,3.15,,30,,45,17
 "Original Whopper Burger with cheese, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Whole (340g),850,37.4,52.12,53.38,,278.8,13.97
 "Original Whopper Junior Burger with Cheese, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Whole (185g),462.5,20.35,28.36,,,,7.6
-"Oven Roasted Chicken Breast Salad, Subway",FAST FOODS,All fast food outlets in alphabetical order,Bowl-dessert (15 cm) (358g),136.04,,,,4.01,,5.01
-"Pizza, pan, cheese, Pizza Hut",FAST FOODS,All fast food outlets in alphabetical order,Slice (100g),223,,,,,,
-"Pizza, pan, pepperoni, Pizza Hut",FAST FOODS,All fast food outlets in alphabetical order,Slice (95g),271.7,11.59,11.59,,2.95,,3.6
 "Pizza, pan, supreme, Pizza Hut",FAST FOODS,All fast food outlets in alphabetical order,Slice (130g),297.28,,14.34,,,111.84,0.7
-"Pizza, pepperoni topping, regular crust",FAST FOODS,All fast food outlets in alphabetical order,Slice (108g),298.08,13.32,,32.4,,,
 "Pizza, thin n crispy, supreme, Pizza Hut",FAST FOODS,All fast food outlets in alphabetical order,Slice (100g),258,,11.5,,3.1,156,
 "Potato, mashed, with gravy, KFC",FAST FOODS,All fast food outlets in alphabetical order,Cup (95g),51.3,1.9,0.3,10.4,1.43,12.35,
 "Quarter Pounder with Cheese, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Whole (199g),513.42,29.03,28.3,,,286.56,9.77
 "Ribs, hot and crispy, KFC",FAST FOODS,All fast food outlets in alphabetical order,Piece (93g),220.41,,,10,0.56,,0.09
 "Ribs, original recipe, KFC",FAST FOODS,All fast food outlets in alphabetical order,Piece (105g),257.25,27.3,23.5,,0.63,13.65,0.05
 "Roast Beef Salad, Subway",FAST FOODS,All fast food outlets in alphabetical order,Bowl-dessert (15 cm) (344g),120.4,10.32,2.79,13,3.99,,4.99
-"Roasta Burger, KFC",FAST FOODS,All fast food outlets in alphabetical order,Whole (230g),437,29.9,,39.79,,,11.52
-"Roller, KFC",FAST FOODS,All fast food outlets in alphabetical order,Whole (83g),317.06,10.79,,24.6,,,
-"Salad, seafood, Long John Silver's",FAST FOODS,All fast food outlets in alphabetical order,1 portion (325g),290.51,13,,,1.3,162.5,
 "Sauce, sweet and sour, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Packet (28.3g),53.06,0.18,0.18,,0,9.73,0
-"Sausage McGriddle with Egg and Cheese, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Whole (199g),483.57,,22.01,,3,,
-"Sausage McMuffin with egg, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,1 portion (163g),363.49,,,,,280.36,
-"Scrambled Egg Platter with Chicken Sausage, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Whole (321g),715.83,,45.81,,4.21,,
-"Scrambled Egg Platter with Turkey Ham, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Whole (274g),632.94,,,,4.11,,
 "Seafood platter, Long John silver's",FAST FOODS,All fast food outlets in alphabetical order,Plate-23cm (1g),2.39,0.07,0.14,0.21,0,0.5,
-"Shrimp dinner, Long John Silver's",FAST FOODS,All fast food outlets in alphabetical order,1 portion (11g),34.01,,,1.94,0.11,4.19,
-"Shrooms Burger, KFC",FAST FOODS,All fast food outlets in alphabetical order,Whole (170g),333.2,,,,,90.1,2.72
-"Subway Club Salad, Subway",FAST FOODS,All fast food outlets in alphabetical order,Bowl-dessert (15 cm) (377g),150.8,,,14.25,4,,
-"Super Supreme 12"" Large Pan Pizza, Pizzahut",FAST FOODS,All fast food outlets in alphabetical order,Whole (85g),216.75,,8.59,,,109.65,
-"Super Supreme 9"" Regular Pan Pizza, Pizzahut",FAST FOODS,All fast food outlets in alphabetical order,Whole (78g),195,10.14,,21.1,,92.04,
-"Toasted Bandito Pocket, KFC",FAST FOODS,All fast food outlets in alphabetical order,Whole (193g),540.4,19.3,33.39,,,,
-"Traditional Bolognaise Pasta, Pizzahut",FAST FOODS,All fast food outlets in alphabetical order,Whole (440g),594,,27.72,,,,
-"Turkey Breast Salad, Subway",FAST FOODS,All fast food outlets in alphabetical order,Bowl-dessert (15 cm) (344g),110.08,10.32,,,3.99,,
-Vanilla cream roll,FAST FOODS,All fast food outlets in alphabetical order,1 portion (65g),197.6,,,,,,
 Vegetarian pizza,FAST FOODS,All fast food outlets in alphabetical order,Slice (95g),185.25,8.08,6.65,22.8,,,
-"Veggie Lover's 10"" Regular Crispy Thin Pizza, Pizzahut",FAST FOODS,All fast food outlets in alphabetical order,Whole (63g),139.86,6.3,,,,,3.4
 "Veggie Lover's 12"" Large Pan Pizza, Pizzahut",FAST FOODS,All fast food outlets in alphabetical order,Whole (85g),190.4,8.5,6.3,25.1,2.8,0,4.8
 "Veggie Lover's 9"" Regular Pan Pizza, Pizzahut",FAST FOODS,All fast food outlets in alphabetical order,Whole (78g),167.7,,,22,2.3,0,3.7
 "Winglets, KFC",FAST FOODS,All fast food outlets in alphabetical order,Whole (73g),210.97,10.22,13.1,12.7,,,
-"a.m. Hash Brown, KFC",FAST FOODS,All fast food outlets in alphabetical order,Piece (57g),90.06,,5,,,9.12,0.14
-"a.m. Honey Biscuit, KFC",FAST FOODS,All fast food outlets in alphabetical order,Whole (45g),171,,,20,,,
-"a.m. Waffles, KFC",FAST FOODS,All fast food outlets in alphabetical order,Whole (110g),308,,,,,,
-"a.m. porridge, KFC",FAST FOODS,All fast food outlets in alphabetical order,Bowl-dessert (15 cm) (350g),220.5,10.89,,30.8,,,
-"6-inch Ham Sandwich, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (216g),,17.28,,37,4,,7
-"6-inch Steak and Cheese Sandwich, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (270g),,27,,,5,280.8,
-"6-inch Subway Club Sandwich, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (243g),,24.3,5.2,38.98,4.01,201.69,6
-"6-inch Tuna Sandwich, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (236g),,21.24,,35.99,,68.44,5
-"Apple Dippers with Caramel Sauce, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Packet (89g),,0,0,,1,56.96,
-"BBQ Turkey Bacon Double Cheeseburger, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Whole (221g),,35.36,,,,302.77,
-"Basil Crayfish Pasta, Pizzahut",FAST FOODS,All fast food outlets in alphabetical order,Whole (360g),,25.2,14.04,,,,
-"Big Breakfast, McDonalds'",FAST FOODS,All fast food outlets in alphabetical order,Whole (252g),,30.24,,42.01,4.99,128.52,2.34
-"Burger, Big Mac, McDonalds'",FAST FOODS,All fast food outlets in alphabetical order,Whole (204g),,24.48,26.01,49,5,108.12,6.32
-"Cheesy BBQ Meltz, KFC",FAST FOODS,All fast food outlets in alphabetical order,Whole (200g),,24,34.2,39.4,,,
-"Chicken Sandwich, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Whole (232g),,30.16,35.73,50.92,5.57,,6.29
-"Chicken plank dinner, Long John Silver's",FAST FOODS,All fast food outlets in alphabetical order,1 portion (57g),,7.98,5.99,,,11.4,
-"Chicken, fried, spicy, drumstick, meat w skin & breading, Popeyes",FAST FOODS,All fast food outlets in alphabetical order,1 portion (63g),,9,5,,,12.6,0
-"Chipotle Southwest Sauce, Subway",FAST FOODS,All fast food outlets in alphabetical order,Dessertspoon (21g),,0,10,,0,,
-"Clam chowder, Long John Silver's",FAST FOODS,All fast food outlets in alphabetical order,Bowl-rice (11and 1/2 cm) (253g),,9.61,6.83,23.28,,,
-"Clam dinner, Long John Silver's",FAST FOODS,All fast food outlets in alphabetical order,Plate-23cm (90g),,4.32,,19.53,0.09,45,
-"Curry Zazzle Baked Rice, Pizzahut",FAST FOODS,All fast food outlets in alphabetical order,Whole (340g),,20.4,23.09,68.99,6.09,,
-"Drumstick, meat only, skin & breading removed, KFC (NNS)",FAST FOODS,All fast food outlets in alphabetical order,Whole (95.5g),,27.33,7.72,0,0,11.46,0
-"Egg McMuffin, McDonalds'",FAST FOODS,All fast food outlets in alphabetical order,Whole (137g),,17.81,13,26,2,254.15,
-"Fish Zinger Burger, KFC",FAST FOODS,All fast food outlets in alphabetical order,Whole (198g),,28.51,30.29,,1.98,227.7,
-"Fish sandwich platter, Long John Silver's",FAST FOODS,All fast food outlets in alphabetical order,Plate-23cm (1g),,0.08,,0.21,,0.19,
-"French fries, Long John Silver's",FAST FOODS,All fast food outlets in alphabetical order,1 portion (85g),,3,15,,3,13.3,28
-"French fries, small, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Packet (70g),,2.8,12,30,2,11.76,0.7
-"Garlic bread, Pizza Hut (NNS)",FAST FOODS,All fast food outlets in alphabetical order,Whole (70g),,6.02,,28.21,,72.1,2.45
-Grilled chicken wrap,FAST FOODS,All fast food outlets in alphabetical order,Whole (213g),,24.01,18,37,,,0
-Grilled salmon with potato & broccolli,FAST FOODS,All fast food outlets in alphabetical order,Plate-23cm (490g),,44,,31.02,,,
-"Hawaiian 10"" Regular Crispy Thin Pizza, Pizzahut",FAST FOODS,All fast food outlets in alphabetical order,Whole (66g),,9.24,,,2.1,99,4
-"Hawaiian 9"" Regular Pan Pizza, Pizzahut",FAST FOODS,All fast food outlets in alphabetical order,Whole (74g),,8.88,,21.6,1.9,,
-"Honey Mustard Sauce, Fat Free, Subway",FAST FOODS,All fast food outlets in alphabetical order,Dessertspoon (21g),,0,,,,,6
-"Hotcakes with sausage, McDonalds",FAST FOODS,All fast food outlets in alphabetical order,Plate-23cm (264g),,15.84,13.99,,3.01,134.64,45.67
-"M + M Cookies, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (45g),,1.8,,32,0.99,16.2,18
-"McSpicy, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Whole (205g),,22.55,25.99,65.01,,159.9,
-"McWings, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Piece (36g),,7.92,,4,0.25,12.24,0
-"Oyster dinner, Long John Silver's",FAST FOODS,All fast food outlets in alphabetical order,Plate-23cm (1g),,0.05,0.13,0.22,0,0.5,
-"Peanut Butter Cookies, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (45g),,4.05,,26,,15.75,
-"Pizza, personal pan, supreme, Pizza Hut",FAST FOODS,All fast food outlets in alphabetical order,Slice (270g),,27,33.48,53.73,,453.6,8.59
-"Pizza, thin n crispy, cheese, Pizza Hut",FAST FOODS,All fast food outlets in alphabetical order,Slice (75g),,12.15,9.15,21.3,,,2.13
-"Pizza, thin n crispy, super supreme, Pizza Hut",FAST FOODS,All fast food outlets in alphabetical order,Slice (100g),,13.2,,22.8,,132,0
-"Sauce, BBQ, McDonalds'",FAST FOODS,All fast food outlets in alphabetical order,Piece (1g),,0.01,,,,0.41,
-"Scallop dinner, Long John Silver's",FAST FOODS,All fast food outlets in alphabetical order,Plate-23cm (1g),,0.05,,,0,,
-"Shrooms 10"" Regular Crispy Thin Pizza, Pizzahut",FAST FOODS,All fast food outlets in alphabetical order,Whole (64g),,7.68,,16.8,2,,
-"Sweet Onion Chicken Teriyaki Salad, Subway",FAST FOODS,All fast food outlets in alphabetical order,Bowl-dessert (15 cm) (401g),,20.05,,,4.01,68.17,17
-"Veggie Delite Salad, Subway",FAST FOODS,All fast food outlets in alphabetical order,Bowl-dessert (15 cm) (287g),,2.87,,9.99,,37.31,
-"a.m. Twister (American), KFC",FAST FOODS,All fast food outlets in alphabetical order,Whole (195g),,13.65,22.62,,,,
-"a.m. Twister (Original Recipe), KFC",FAST FOODS,All fast food outlets in alphabetical order,Whole (195g),,21.45,26.72,,,,
-"a.m. Waffles & Eggs, KFC",FAST FOODS,All fast food outlets in alphabetical order,Whole (210g),,22.2,24.91,,,,
-soft serve cone,FAST FOODS,All fast food outlets in alphabetical order,1 portion (103g),,3.09,,24,,,20.19
-"6-Inch Parmesan Oregano Bread, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (71g),,,2.9,,2,,
-"6-inch Spicy Italian Sandwich, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (224g),,,28,,5,,7.01
-"6-inch Veggie Delite Sandwich, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (153g),,,2.69,,3.99,,5
-"Biscuit, Popeyes",FAST FOODS,All fast food outlets in alphabetical order,1 portion (60g),,,13,,1,,2
-"CROISSAN'WICH w/ Turkey Bacon, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Whole (122g),,,22.8,,,,
-"Cheeseburger, McDonalds'",FAST FOODS,All fast food outlets in alphabetical order,Whole (114g),,,12,33,,99.18,4.1
-"Chicken, nuggets, Long John Silver's",FAST FOODS,All fast food outlets in alphabetical order,Piece (20g),,,3,,0,1.8,
-"Coleslaw, Long John Silver's",FAST FOODS,All fast food outlets in alphabetical order,1 portion (97g),,,6.01,20,3.01,33.27,
-"Drumstick, original recipe, KFC",FAST FOODS,All fast food outlets in alphabetical order,Piece (63g),,,10.76,,,9.45,
-"Egg tart, KFC",FAST FOODS,All fast food outlets in alphabetical order,Whole (45g),,,10.8,14.6,,,
-"French fries, large, salted, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Packet (144g),,,25.06,,4.18,12.96,0.99
-"French fries, regular, KFC",FAST FOODS,All fast food outlets in alphabetical order,Packet (85g),,,14.6,32.5,3.74,11.05,0.65
-"Hawaiian 12"" Large Pan Pizza, Pizzahut",FAST FOODS,All fast food outlets in alphabetical order,Whole (82g),,,7.71,,,,4.3
-"KFC popcorn chicken, regular",FAST FOODS,All fast food outlets in alphabetical order,Packet (150g),,,28.2,,3,22.5,0.27
-"McSpicy Double, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Whole (280g),,,42,96.01,4,,18.2
-"Muffin, English-style, McDonalds'",FAST FOODS,All fast food outlets in alphabetical order,1 portion (67g),,,5.29,,2.41,107.2,
-"Ocean Catch Pizza, Pizza Hut",FAST FOODS,All fast food outlets in alphabetical order,Slice (80g),,,7.12,16.24,1.84,,1.84
-"Onion rings, small, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Packet (54g),,,10.09,,1.71,47.52,2.3
-"Original Whopper Junior Burger, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Whole (180g),,,23.11,,,70.2,7.6
-"Pizza, thin n crispy, pepperoni, Pizza Hut",FAST FOODS,All fast food outlets in alphabetical order,Slice (75g),,,10.2,,,114,
-"Salad, ocean chef, Long John Silver's",FAST FOODS,All fast food outlets in alphabetical order,1 portion (320g),,,8,,1.92,,
-"Sauce, hot mustard, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,1 portion (10g),,,1.2,,,5,
-"Sugar Cookies, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (45g),,,12,27.99,,,14
-"Sweet Onion Sauce, Fat Free, Subway",FAST FOODS,All fast food outlets in alphabetical order,Dessertspoon (21g),,,0,,0,,8
-"Taro Turnover, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Piece (80g),,,12.4,,7.7,,
-"White Chip Macademia Nut, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (45g),,,11,28.98,,,18
-"6-Inch Hearty Italian Bread, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (71g),,,,37,2,,
-"6-inch Meatball Marinara Sandwich, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (339g),,,,52.99,4.98,613.59,10.98
-"Beef Lasagne, Pizzahut",FAST FOODS,All fast food outlets in alphabetical order,Whole (262g),,,,79.91,,96.94,12.31
-"Chocolate Chunk Cookies, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (45g),,,,30,,,
-"Double Cheeseburger, McDonalds'",FAST FOODS,All fast food outlets in alphabetical order,Whole (163g),,,,33.01,,,7.6
-"French fries, medium, salted, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Packet (103g),,,,38.3,,9.27,0.71
-"Hush puppies, Long John Silver's",FAST FOODS,All fast food outlets in alphabetical order,Gram (1g),,,,0.38,0,0.5,
-MOS rice burger with chicken,FAST FOODS,All fast food outlets in alphabetical order,Whole (160g),,,,52.16,,8,4.8
-"McFlurry with Oreo Cookies, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Cup (337g),,,,62.01,,434.73,71.41
-"Onion rings, medium,  Burger King",FAST FOODS,All fast food outlets in alphabetical order,Packet (96g),,,,33.12,3.11,84.48,
-"Original Whopper Burger, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Whole (327g),,,,54.77,,,13.8
-"Sausage McGriddle, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Whole (135g),,,,46.98,3,85.05,15.16
-"Sausage McMuffin, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Whole (112g),,,,26,,,2.08
-Seafood pizza,FAST FOODS,All fast food outlets in alphabetical order,Slice (95g),,,,20.9,,,
-"a.m. Platter, KFC",FAST FOODS,All fast food outlets in alphabetical order,Whole (264g),,,,41,,,
-"6-inch Italian BMT Sandwich, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (228g),,,,,3.99,,7
-"CROISSAN'WICH w/ Turkey Ham, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Whole (149g),,,,,1.4,,
-"Chicken, wing, original recipe, KFC",FAST FOODS,All fast food outlets in alphabetical order,Piece (53g),,,,,0,0,
-"Double Chocolate Chip Cookies, Subway",FAST FOODS,All fast food outlets in alphabetical order,Whole (45g),,,,,1,16.2,20
-"Mushroom Swiss Double, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Whole (190g),,,,,2.2,,
-"Mushroom Swiss Single, Burger King",FAST FOODS,All fast food outlets in alphabetical order,Whole (140g),,,,,2.2,,
-"Mustard Yellow, Subway",FAST FOODS,All fast food outlets in alphabetical order,Teaspoon (10g),,,,,0,,
-"Onion rings, large,  Burger King",FAST FOODS,All fast food outlets in alphabetical order,Packet (144g),,,,,4.59,126.72,
-"Potato, hash brown, McDonalds'",FAST FOODS,All fast food outlets in alphabetical order,Piece (53g),,,,,2,,0.13
-"Zinger Burger,KFC",FAST FOODS,All fast food outlets in alphabetical order,Whole (210g),,,,,2.94,163.8,
-"Double Quarter Pounder with Cheese, McDonald's",FAST FOODS,All fast food outlets in alphabetical order,Whole (280g),,,,,,296.8,9.77
-"Sausage patty, McDonalds'",FAST FOODS,All fast food outlets in alphabetical order,1 portion (43g),,,,,,9.89,
 Belacan,FISH AND FISH PRODUCTS,"Crustaceans (eg crabs, lobsters, crayfish)",Piece (44g),127.16,2.68,1.1,26.71,1.23,70.84,22.26
 "Crab, blue/sea, boiled",FISH AND FISH PRODUCTS,"Crustaceans (eg crabs, lobsters, crayfish)",Whole (262g),222.67,47.16,3.14,1.31,0,440.16,1.31
 "Crab, freshwater, boiled",FISH AND FISH PRODUCTS,"Crustaceans (eg crabs, lobsters, crayfish)",Whole (262g),280.35,50.3,6.03,6.03,0,592.12,
@@ -702,22 +546,6 @@ Lobster roll hotdog,FISH AND FISH PRODUCTS,Shellfish and roe (eg all bivalves),1
 Sambal lala,FISH AND FISH PRODUCTS,Shellfish and roe (eg all bivalves),Plate-23cm (322g),379.96,25.44,25.34,12.88,6.44,325.22,8.69
 "Scallop, boiled",FISH AND FISH PRODUCTS,Shellfish and roe (eg all bivalves),1 portion (56g),58,12.43,0.84,0.28,0,16.24,0
 "Scallop, dried",FISH AND FISH PRODUCTS,Shellfish and roe (eg all bivalves),Piece (5g),13.2,2.78,0.12,0.26,0,3.85,0.26
-"Fish maw, dried",FISH AND FISH PRODUCTS,Fish and roe,Piece (1.33g),,1.12,,,0,,0
-"Fish, battered, frozen, oven fried",FISH AND FISH PRODUCTS,Fish and roe,Piece (65g),,8,,,0.33,11.05,0.39
-Fried fish and beef bento set (tested fish only),FISH AND FISH PRODUCTS,Fish and roe,Plate-23cm (456g),,46.06,75.38,98.95,9.58,,12.77
-"Salmon, pink, canned in brine",FISH AND FISH PRODUCTS,Fish and roe,Cup (240g),,46.56,12.96,,0,660,0
-"Salmon, pink, canned in brine,drained",FISH AND FISH PRODUCTS,Fish and roe,Cup (210g),,89.46,14.7,,0,508.2,0
-"Salmon, smoked, sliced",FISH AND FISH PRODUCTS,Fish and roe,Slice (25g),,5.75,1.15,,0,2.75,0
-"Salmon, steamed",FISH AND FISH PRODUCTS,Fish and roe,Piece (310g),,84.82,23.25,0,0,142.6,0
-"Shad, gizzard",FISH AND FISH PRODUCTS,Fish and roe,Whole (50g),,9.85,2.95,0,,,
-"Surimi, finfish",FISH AND FISH PRODUCTS,Fish and roe,1 portion (75g),,11.4,0.68,,0,,0
-"Tuna, canned in oil, drained",FISH AND FISH PRODUCTS,Fish and roe,Cup (205g),,48.38,27.06,0,0,14.35,0
-"Tuna, smoked, canned",FISH AND FISH PRODUCTS,Fish and roe,Can (166g),,33.86,37.85,,0,,0
-Grey mullet,FISH AND FISH PRODUCTS,Fish and roe,Whole (434g),,,35.94,0,0,,0
-"Salmon, australian, canned in brine",FISH AND FISH PRODUCTS,Fish and roe,Cup (240g),,,20.4,,0,801.6,0
-White snapper,FISH AND FISH PRODUCTS,Fish and roe,1 portion (70g),,,0.42,0,0,,0
-Big-eye scad,FISH AND FISH PRODUCTS,Fish and roe,Whole (310g),,,,,0,474.3,0
-Red grouper,FISH AND FISH PRODUCTS,Fish and roe,Whole (196g),,,,,,,0
 "Apple, green, raw, with peel, core and stalk",FRUIT AND FRUIT PRODUCTS,Fresh fruits,Whole (156g),76.88,0.47,0,16.69,3.59,7.8,16.38
 "Apple, red, raw, with peel, core and stalk",FRUIT AND FRUIT PRODUCTS,Fresh fruits,Whole (185g),104.45,0.56,0,23.68,4.07,9.25,22.94
 "Apple, unspecified type, red, raw, with skin",FRUIT AND FRUIT PRODUCTS,Fresh fruits,Whole (150g),86.13,0.45,0.3,18.3,3.45,7.5,18
